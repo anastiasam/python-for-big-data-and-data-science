@@ -1,0 +1,1 @@
+print ("Anastasiia Samoshkina, IPZ-2")
